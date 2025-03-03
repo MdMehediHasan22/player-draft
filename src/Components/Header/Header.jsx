@@ -12,16 +12,16 @@ const Header = ({ coin }) => {
 
                     {/* Navigation Links */}
                     <div className="flex items-center space-x-6">
-                        <ul className="flex space-x-6 text-xl">
-                            <li className="cursor-pointer hover:text-blue-500">Home</li>
-                            <li className="cursor-pointer hover:text-blue-500">Fixture</li>
-                            <li className="cursor-pointer hover:text-blue-500">Teams</li>
-                            <li className="cursor-pointer hover:text-blue-500">Schedules</li>
+                        <ul className="flex space-x-6 text-lg ">
+                            <li className="cursor-pointer hover:text-lime-500">Home</li>
+                            <li className="cursor-pointer hover:text-lime-500">Fixture</li>
+                            <li className="cursor-pointer hover:text-lime-500">Teams</li>
+                            <li className="cursor-pointer hover:text-lime-500">Schedules</li>
                         </ul>
 
                         {/* Coin Button with Icon */}
-                        <button className="flex items-center bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition">
-                            <span> {coin} </span> Coin
+                        <button className="flex items-center bg-gray-100 font-semibold text-black px-4 py-2 rounded-lg ">
+                            <span > {coin} </span> Coin
                             <img src={coinIcon} alt="Coin" className="h-5 w-5 ml-2" />
                         </button>
                     </div>

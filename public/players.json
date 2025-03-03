@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/Kx7C1RDY/347702-6.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 2500000
+    },
+    {
+      "playerId": 2,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/LX71m25c/ls13cu0g-babar-azam-625x300-20-February-25.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 2200000
+    },
+    {
+      "playerId": 3,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/ztmBBRC/3500.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 3000000
+    },
+    {
+      "playerId": 4,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/yCXNm6m/132181779-warnerbody.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 2100000
+    },
+    {
+      "playerId": 5,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/m55vK4Ld/Bumrah-injure.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 2800000
+    },
+    {
+      "playerId": 6,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/QvLFRLc8/NZC1693849190815.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 2300000
+    },
+    {
+      "playerId": 7,
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/fY3cfrDb/deccanherald-2024-08-29-mex8izs1-PTI06-16-2024-000348-A.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 2500000
+    },
+    {
+      "playerId": 8,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/fdXDP3qP/steve-smith-1724592172432-original.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 2400000
+    },
+    {
+      "playerId": 9,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/ZRsTybVm/rashid-is-the-titan-for-gujarat.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 2600000
+    },
+    {
+      "playerId": 10,
+      "name": "Jos Buttler",
+      "country": "England",
+      "image": "https://i.ibb.co.com/Y4VMDNJN/381640-6.webp",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 2700000
+    },
+    {
+      "playerId": 11,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/6JDmNZs6/191029132544-shakib-al-hasan-04.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox spin",
+      "biddingPrice": 2200000
+    },
+    {
+      "playerId": 12,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/99kL3NNx/1616766752-wp6512920-1.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Left-arm fast-medium",
+      "biddingPrice": 2400000
+    },
+    {
+      "playerId": 13,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/tP2s52Sz/Andre-Russell.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 2900000
+    },
+    {
+      "playerId": 14,
+      "name": "Faf du Plessis",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/JgpVWvF/OTD-Former-South-Africa-skipper-Faf-du-Plessis-was-born-in-1984-1.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 2000000
+    },
+    {
+      "playerId": 15,
+      "name": "Mujeeb Ur Rahman",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/TM3NJxrh/mujeeb1.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 2300000
+    }
+  ]
+  
